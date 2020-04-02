@@ -1,5 +1,3 @@
-package pkg14b.conqueror;
-
 public class Level {
     final int width = 45, height = 26;
     int turn = 1;
