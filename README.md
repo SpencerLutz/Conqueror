@@ -15,3 +15,9 @@ Once you have enough gold, you can create another city with the “C” key. The
 After this you can repeat the process to expand your empire.  
 You can also create units with the “U” key. These units can be sent to explore the map and reveal the grey areas. Units cost 50 gold.  
 Whlie in Unit mode, you can also move your units. To do this, click the unit you want to use and press arrow key of the desired direction.  
+
+Notes:  
+Pressing R toggles the resource view. See how much gold and food a tile yields.  
+Pressing O toggles the territory view - see who owns a tile.  
+N and K also do something, I don't remember what though.  
+I'm not sure what happened to unit functionality. To be completely honest I think this is an incomplete version of the game, and the complete one got lost in my files somewhere. There are some features that I remember existing in the finished product that I'm not sure I see here. Apologies for that and if I ever find the complete one, I'll be sure to post it here.
