@@ -1,5 +1,3 @@
-package pkg14b.conqueror;
-
 import java.util.ArrayList;
 
 public class Game{
