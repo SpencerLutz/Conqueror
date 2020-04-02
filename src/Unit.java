@@ -1,5 +1,3 @@
-package pkg14b.conqueror;
-
 public class Unit {
     int x = 0, y = 0, pl, health = 0;
     boolean moved = false, alive = true;
